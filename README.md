@@ -1,5 +1,7 @@
 # Overview
-I like to make charts for fun. This repository contains some example Python scripts to plot COVID-19 data. The scripts require Matplotlib, Numpy, and Pandas, plus the data files listed below. If you encounter a probelm, [get in touch][7].
+I like to make charts for fun. This repository contains some example Python scripts to plot COVID-19 data, such as in this figure. The scripts require Matplotlib, Numpy, and Pandas, plus the data files listed below. If you encounter a probelm, [get in touch][7].
+
+![Image of pyburgers logo](https://gibbs.science/img/covid_world.png)
 
 # Worldwide Data
 The [covid_world.py][1] file plots daily confirmed cases and deaths across the world. The script requires data from [Our World in Data][2].
